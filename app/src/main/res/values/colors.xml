@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="boris_bg">#101313</color>
+    <color name="boris_surface">#1B2020</color>
+    <color name="boris_surface_raised">#252C2B</color>
+    <color name="boris_accent">#FFAB40</color>
+    <color name="boris_text">#F4F4ED</color>
+    <color name="boris_muted">#B3BCB7</color>
+    <color name="boris_danger">#E57373</color>
+    <color name="boris_icon_background">#0D69D8</color>
+</resources>

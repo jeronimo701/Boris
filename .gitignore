@@ -1,0 +1,17 @@
+
+# Local-only files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.session*
+*.log
+build/
+dist/
+release/
+.gradle/
+local.properties
+.idea/
